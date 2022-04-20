@@ -1,1 +1,0 @@
-# codeforce-q-digits
